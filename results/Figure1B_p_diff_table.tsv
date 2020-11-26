@@ -1,0 +1,16 @@
+	p-value	mean difference	p<0.01	p<1e-4	p<1e-6
+gBRCA1_LOH	5.76e-17	0.23	1	1	1
+gBRCA2_LOH	3.76e-11	0.19	1	1	1
+gHRR_LOH	1.83e-01	-0.03	0	0	0
+sBRCA1_LOH	3.70e-15	0.26	1	1	1
+sBRCA2_LOH	1.01e-09	0.18	1	1	1
+sHRR_LOH	6.11e-03	0.02	1	0	0
+gBRCA1_nonLOH	3.04e-02	-0.11	0	0	0
+gBRCA2_nonLOH	4.49e-01	-0.02	0	0	0
+gHRR_nonLOH	2.00e-19	-0.17	1	1	1
+sBRCA1_nonLOH	5.68e-05	-0.05	1	1	0
+sBRCA2_nonLOH	6.94e-10	-0.05	1	1	1
+sHRR_nonLOH	4.72e-18	-0.09	1	1	1
+BRCA2_homdel	2.78e-06	0.29	1	1	0
+RAD51B_homdel	2.39e-01	0.02	0	0	0
+nonBRCA_HRR_homdel	3.42e-05	0.08	1	1	0

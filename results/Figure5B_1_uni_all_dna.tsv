@@ -1,0 +1,6 @@
+	n	Hazard ratio	95%CI	p value
+Age_anno_High	1228(2969)	1.77	1.57-1.99	7.33e-21
+Sex_anno_Male	1127(2969)	1.58	1.41-1.79	4.19e-14
+TP53_anno_Mut	1582(2969)	1.12	0.99-1.26	6.92e-02
+Stage_anno_Late	1236(2336)	2.06	1.77-2.39	7.32e-21
+HRD_anno_HRD	518(2969)	0.76	0.65-0.89	8.21e-04

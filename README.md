@@ -1,13 +1,14 @@
 # pancancer_hrd_analysis
 This is a project page of "The utility of homologous recombination deficiency biomarkers across cancer types".
 
-All processed data and codes to reproduce the main results of the work are available here.
+All processed data and codes to reproduce the main results of the work are available here.   
 Other codes for preprocessing public or restricted-access data are available from the corresponding author upon reasonable request.
 ___
 ## Requirement
 #### Python 3.7
 - numpy
 - scipy
+- pandas
 - scikit-learn
 - matplotlib 
 - seaborn
@@ -31,7 +32,5 @@ All patient IDs in TCGA samples are anonymized by random study numbers.
   - Figure5ABC.ipynb
   - Figure6AB.ipynb
 - results
-
-## License
 
 ## Citation

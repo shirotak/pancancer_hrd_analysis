@@ -1,0 +1,7 @@
+	p-value	mean difference	p<0.01	p<1e-4	p<1e-6
+gBRCA1	1.68e-02	0.31	0	0	0
+gBRCA2	1.42e-02	0.23	0	0	0
+gHRR	2.37e-01	0.02	0	0	0
+sBRCA1	2.16e-08	-0.9	1	1	1
+sBRCA2	3.72e-08	-0.83	1	1	1
+sHRR	2.18e-14	-0.56	1	1	1

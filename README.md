@@ -16,10 +16,11 @@ All have been tested on Mac OSX.
 ___
 ### Contents
 - data  
-All patient identifiers in the TCGA samples are anonymized with random study numbers.
-- script
+Processed data for scripts.   
+All patient identifiers in TCGA samples are anonymized with random study numbers.
+- scripts   
 Scripts for the main figures, written by Jupyter Notebook.
-- results
+- results   
 Figures and tables.
 ___
 ### Citation

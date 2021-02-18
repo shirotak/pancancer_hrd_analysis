@@ -5,32 +5,21 @@ All processed data and codes to reproduce the main results of the work are avail
 Other codes for preprocessing public or restricted-access data are available from the corresponding author upon reasonable request.
 ___
 ## Requirement
-#### Python 3.7
-- numpy
-- scipy
-- pandas
-- scikit-learn
-- matplotlib 
-- seaborn
+#### Python 3.8.6
+- numpy 1.20.0
+- pandas 1.2.1
+- scipy 1.6.0
+- scikit-learn 0.24.1
+- matplotlib 3.3.4
+- seaborn 0.11.1
 - jupyter notebook
 ___
 ## Contents
 - data  
-All patient IDs in TCGA samples are anonymized by random study numbers.
-  - Data_for_Figure1.tsv
-  - Data_for_Figure2_3A.tsv
-  - Data_for_Figure3B3C.tsv
-  - Data_for_Figure4.tsv
-  - Data_for_Figure5.tsv
-  - Data_for_Figure6.tsv
+All patient IDs of TCGA samples are anonymized by random study numbers.
 - script
-  - Figure1.ipynb
-  - Figure2_3A.ipynb
-  - Figure3BC.ipynb
-  - Figure4A.ipynb
-  - Figure4B_5D.ipynb
-  - Figure5ABC.ipynb
-  - Figure6AB.ipynb
+Scripts for the main figures, written by Jupyter Notebook.
 - results
-
+Figures and tables.
+___
 ## Citation

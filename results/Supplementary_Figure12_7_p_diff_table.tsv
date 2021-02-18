@@ -1,7 +1,0 @@
-	p-value	mean difference	p<0.05	p<1e-2	p<1e-3
-BRCA1_LOH	2.38e-01	-0.01	0	0	0
-BRCA2_LOH	2.42e-01	0.1	0	0	0
-HRR_LOH	1.24e-02	0.13	1	0	0
-BRCA1_nonLOH	1.11e-02	0.58	1	0	0
-BRCA2_nonLOH	3.10e-09	0.57	1	1	1
-HRR_nonLOH	4.34e-16	0.35	1	1	1

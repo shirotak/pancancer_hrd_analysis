@@ -24,3 +24,5 @@ Scripts for the main figures, written by Jupyter Notebook.
 Figures and tables.
 ___
 ### Citation
+The utility of homologous recombination deficiency biomarkers across cancer types
+<https://www.medrxiv.org/content/10.1101/2021.02.18.21251882v1>

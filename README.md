@@ -1,4 +1,4 @@
-## The utility of homologous recombination deficiency biomarkers across cancer types
+## Utility of Homologous Recombination Deficiency Biomarkers Across Cancer Types
 This page provides processed data and codes to reproduce the main results of the paper.   
 Other codes for preprocessing public or restricted-access data are available from the corresponding author upon reasonable request.
 ___
@@ -24,5 +24,7 @@ Scripts for the main figures, written by Jupyter Notebook.
 Figures and tables.
 ___
 ### Citation
-The utility of homologous recombination deficiency biomarkers across cancer types
-<https://www.medrxiv.org/content/10.1101/2021.02.18.21251882v1>
+Utility of Homologous Recombination Deficiency Biomarkers Across Cancer Types  
+JCO Precision Oncology no. 5 (2021) 1270-1280. Published online August 11, 2021.  
+<https://ascopubs.org/doi/full/10.1200/PO.21.00141>  
+DOI: 10.1200/PO.21.00141

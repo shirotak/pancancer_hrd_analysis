@@ -25,6 +25,7 @@ Figures and tables.
 ___
 ### Citation
 Utility of Homologous Recombination Deficiency Biomarkers Across Cancer Types  
-JCO Precision Oncology no. 5 (2021) 1270-1280. Published online August 11, 2021.  
-<https://ascopubs.org/doi/full/10.1200/PO.21.00141>  
-DOI: 10.1200/PO.21.00141
+JCO Precision Oncology no. 6 (2022) Published online May 25, 2022.  
+<https://ascopubs.org/doi/abs/10.1200/PO.22.00085>  
+DOI: 10.1200/PO.22.00085.  
+PMID: 35613413
